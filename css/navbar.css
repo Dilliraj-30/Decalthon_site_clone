@@ -1,0 +1,727 @@
+* {
+margin: 0px;
+}
+.nav{
+    background-color: white;
+    display: flex;
+    color:black;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    margin: 1px;
+}
+.item{
+
+padding-right: 50px;
+font-weight: bolder;
+padding-right: 10px;
+}
+div img{
+    width: 200px;
+}
+.iinput [type=text]{
+    width: 350px;
+    border: 3 solid black;
+    border-radius: 10px;
+    height: 30px;
+   background-color: rgb(190, 190, 190);
+}
+
+.iinput [type=text]{
+    background-image:url(../../imgs/search.png);
+    background-repeat: no-repeat;
+    background-position: 5px center;
+    height: 35px;
+    padding-left: 30px;
+    background-size: 35px;
+    padding-left: 10px;
+}
+
+.iinput [placeholder]{
+    padding-left: 40px;
+}
+div a  {
+    text-decoration: none;
+    color: rgb(24, 22, 22);
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.ad img {
+    width: 1350px;
+}
+
+
+.avif{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.off49 img {
+    width: 1350px;
+    margin-top: 20px;
+   
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+
+}
+
+
+
+
+.shirt{
+    background-color: rgb(55, 78, 182);
+    width: 200px;
+    border: 1px solid black;
+    margin-left: 5px;
+    border-radius: 15px;
+    overflow: hidden;
+    color: white;
+}
+    
+.shirt img {
+    width: 200px;
+    height: 250px;
+}
+.shirt h4{
+    padding: 10px;
+    padding-left: 70px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+
+.shirt p {
+    padding-left: 25px;
+}
+
+
+
+.pant{
+    background-color: rgb(55, 78, 182);
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 15px;
+    overflow: hidden;
+    color: white;
+
+}
+
+.pant img {
+    width: 200px;
+    height: 250px;
+}
+
+.pant h4{
+    padding:10px;
+    padding-left: 65px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.pant p{
+     padding-left: 20px;
+}
+
+.shorts{
+    background-color: rgb(55, 78, 182);
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 15px;
+    overflow: hidden;
+    color: white;
+
+}
+
+.shorts img {
+    width: 200px;
+    height: 250px;
+}
+
+.shorts h4{
+    padding: 10px;
+    padding-left: 70px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.shorts p {
+    padding-left: 40px;
+}
+
+.jacket{
+    background-color: rgb(55, 78, 182);
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 200px ;
+    border-radius: 15px;
+    overflow: hidden;
+    color: white;
+
+}
+
+.jacket img{
+    width: 200px;
+    height: 250px;
+
+}
+
+.jacket h4{
+    padding:10px;
+    padding-left: 67px ;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.jacket p{
+    padding-left: 5px;
+}
+
+
+
+.hoodie{
+    background-color: rgb(55, 78, 182);
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    border-radius: 15px;
+    overflow: hidden;
+    color: white;
+
+}
+
+.hoodie img{
+    width: 200px;
+    height: 250px;
+}
+
+.hoodie h4{
+    padding: 10px;
+    padding-left: 85px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+
+.hoodie p{
+    padding-left: 40px;
+}
+
+
+.aws{
+    background-color: rgb(55, 78, 182);
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    border-radius: 15px;
+    overflow: hidden;
+    color: white;
+
+}
+
+.aws img{
+    width: 200px;
+    height: 245px;
+}
+
+.aws h4{
+    padding: 10px;
+    padding-left: 86px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+
+}
+
+.aws p {
+    padding-left: 20px;
+    align-items: center;
+}
+
+
+.adverstiement{
+   
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    width: 1300px;
+    align-items: center;
+    padding: 10px;
+    gap: 50px;
+    justify-content: space-between;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    margin-top: 20px;
+    border-radius: 20px;
+  
+   
+
+}
+
+.sportsadd{
+      background-color: rgb(15, 82, 158);
+      color: white;
+      display: flex;
+      padding: 20px;
+      margin-left: 18px;
+      border-radius: 15px;
+     
+}
+
+.sportsadd img{
+    width: 300px;
+    height: 200px;
+  
+}
+
+.flat h4 {
+    flex-wrap: wrap; 
+    font-size: 20px;
+    align-items: center;
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+
+
+.flat p{
+    text-align: justify;
+    align-items: baseline;
+    font-size: 16px;
+    flex-wrap: wrap;
+    font-family:'Times New Roman', Times, serif;
+    text-align:justify;
+    padding: 10px;
+}
+
+.flat button{
+    margin-top: 9px;
+    border-radius: 10px;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+
+.off{
+   background-color: rgb(15, 82, 158);
+   color: white;
+   display: flex;
+   padding: 12px;
+   color: white;
+   border-radius: 15px;
+
+}
+
+.off img{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+   
+    
+}
+
+.women h4 {
+    flex-wrap: wrap; 
+    font-size: 20px;
+    align-items: center;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.women p {
+    text-align: justify;
+    align-items: baseline;
+    font-size: 16px;
+    flex-wrap: wrap;
+    font-family:'Times New Roman', Times, serif;
+    text-align:justify;
+    padding: 10px;
+}
+
+.women button{
+    margin-top: 9px;
+    border-radius: 10px;
+    font-weight: bolder;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+.offer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.offer img{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
+.tony{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 15px;
+
+}
+
+
+.starck{
+    width: 200px;
+    margin-left: 5px;
+    color: rgb(0, 0, 0);
+}
+    
+.starck img {
+    width: 200px;
+    height: 250px;
+}
+.starck h4{
+    padding: 10px;
+    padding-left: 70px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+.starck h5 {
+    
+    margin-left: 78px;
+}
+
+.starck p {
+    padding-left: 25px;
+}
+
+.starck button{
+    padding: 8px;
+    width: 200px;
+    margin-top: 5px;
+}
+
+
+
+.glows{
+   
+    width: 200px;
+    color: rgb(0, 0, 0);
+
+}
+
+.glows img {
+    width: 200px;
+    height: 250px;
+}
+
+.glows h4{
+    padding:10px;
+    padding-left: 65px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.glows h5{
+    margin-left: 78px;
+}
+
+.glows p{
+     padding-left: 20px;
+}
+ 
+.glows button{
+    padding: 8px;
+    width: 200px;
+    margin-top: 5px;
+}
+
+
+
+
+
+.handbag{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    color: rgb(0, 0, 0);
+
+}
+
+.handbag img {
+    width: 200px;
+    height: 250px;
+}
+
+.handbag h4{
+    padding: 10px;
+    padding-left: 70px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.handbag h5{
+    margin-left: 78px;
+}
+
+.handbag p {
+    padding-left: 40px;
+}
+
+.handbag button{
+    padding: 8px;
+    width: 200px;
+    margin-top: 5px;
+}
+
+.vollyball{
+    background-color: rgb(255, 255, 255);
+    width: 200px ;
+    color: rgb(0, 0, 0);
+
+}
+
+.vollyball img{
+    width: 200px;
+    height: 250px;
+
+}
+
+.vollyball h4{
+    padding:10px;
+    padding-left: 67px ;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.vollyball h5{
+    margin-left: 78px;
+}
+
+.vollyball p{
+    padding-left: 5px;
+}
+
+.vollyball button{
+    padding: 8px;
+    width: 200px;
+    margin-top: 5px;
+}
+
+
+.bag{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    color: rgb(0, 0, 0);
+
+}
+
+.bag img{
+    width: 200px;
+    height: 250px;
+}
+
+.bag h4{
+    padding: 10px;
+    padding-left: 85px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.bag h5{
+    margin-left: 78px;
+}
+
+
+.bag p{
+    padding-left: 40px;
+}
+
+.bag button{
+    padding: 8px;
+    width: 200px;
+    margin-top: 5px;
+}
+
+
+.poster img {
+
+    width: 1350px;
+    margin-top: 20px;
+}
+
+.imgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+ .circket img{
+    width: 300px;
+ }
+
+ .football img {
+    width: 300px;
+ }
+
+ .tennis img {
+    width: 300px;
+ }
+
+ .golf img {
+    width: 300px;
+ }
+
+ .gift img {
+    width: 1330px;
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+ }
+
+ .end{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   padding: 30px;
+   color: white;
+   margin-top: 25px;
+ }
+
+ .end div a {
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: white;
+ }
+ 
+
+ .nav{
+    position: sticky;
+    top: 0; 
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+    
+ }
+
+.bodyy{
+    background-color:rgb(31, 88, 71);
+}
+
+
+ .login{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+     width: 300px;
+     height: 350px;
+     margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 100px;
+   
+    
+ }
+
+ .form h1{
+    margin-bottom: 30px;
+ }
+ 
+.inform input{ 
+    border-radius: 17px;
+    width: 200px;
+    padding: 5px;
+}
+
+    
+/* Mobile Responsive */
+@media (max-width: 600px) {
+  /* Navbar */
+  .nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+  }
+  .nav .anchor {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .iinput input {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  /* Ads / Hero Images */
+  .ad img,
+  .off49 img,
+  .poster img,
+  .gift img {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Product Section */
+  .avif,
+  .offer,
+  .imgs {
+    display: grid;
+    grid-template-columns: 1fr; /* 1 per row */
+    gap: 15px;
+  }
+
+  /* Cards */
+  .card,
+  .tony {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column in mobile */
+    gap: 20px;
+    padding: 10px;
+  }
+  .card div,
+  .tony div {
+    width: 100%;
+  }
+
+  /* Advertisement with text + img */
+  .sportsadd,
+  .off {
+    flex-direction: column;
+    text-align: center;
+  }
+  .sportsadd img,
+  .off img {
+    width: 100%;
+  }
+
+  /* Footer */
+  .end {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+}
